@@ -5,7 +5,8 @@ This lab deploys a simple app to Heroku and uses Travis CI to ensure basic proof
 
 ## Links and Resources
 - [Github Repo](https://github.com/401-advanced-javascript-1/lab-00)
-- [Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-00) https://www.travis-ci.com/401-advanced-javascript-1/lab-00.svg?branch=master
+- [Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-00)
+- [![Build Status](https://www.travis-ci.com/401-advanced-javascript-1/lab-00.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-1/lab-00)
 
 ## Documentation
 N/A
